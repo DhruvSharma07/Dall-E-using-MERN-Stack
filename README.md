@@ -15,3 +15,17 @@ Welcome to the DALLE Clone repository! This project is a full-stack implementati
 * React.js: Frontend library for building interactive user interfaces.
 * Node.js: JavaScript runtime for the backend server.
 
+## Project Structure-
+The project is divided into two main parts:
+
+### Backend:
+
+* Developed using Node.js and Express.js.
+* Manages user authentication, interacts with the database, and communicates with the DALL-E model.
+* Provides a RESTful API for the frontend to consume.
+
+### Frontend:
+
+* Developed using React.js.
+* Provides a responsive and interactive user interface.
+* Communicates with the backend API to perform operations like image generation, user authentication, and data retrieval.
